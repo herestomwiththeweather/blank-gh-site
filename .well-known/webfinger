@@ -1,6 +1,6 @@
 {
   "subject": "acct:tom@backpawn.com",
   "links": [
-   {"rel": "self", "type": "application/activity+json", "href": "https://irwin.ngrok.io/users/tom"}
+   {"rel": "self", "type": "application/activity+json", "href": "https://irwin.ngrok.io/actor/tom@backpawn.com"}
   ]
 }
